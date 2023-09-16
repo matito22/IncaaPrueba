@@ -34,7 +34,7 @@ public class testPrueba {
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			System.out.println(e.getMessage());
-			System.out.println(sistema.getLstPeliculas());
+			
 		}
 		
 		
